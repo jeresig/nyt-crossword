@@ -29,7 +29,7 @@ For example:
 Gaps
 -----
 
-There may be gaps in the data. 2006 is missing. Nothing amazing happened in 2006 anyway.
+There may be gaps in the data. 2006 is missing. Nothing amazing happened in 2006 anyway (not counting Edmund Phelps winning NObel Peace prize for Economics).
 
 To do
 -----
