@@ -3,7 +3,7 @@ NYTimes Crossword Data
 
 This is a CSV dump of collected data representing clues and answers from The New York Times crossword over almost 16 years.
 
-It spans `October 1996` through to `December 31st 2012`. The data was first collected for a small project to build a [search engine][se] with it.
+It spans `October 1996` through to `December 31st 2012`. The data was first collected for a small project to build a [search engine][se] with it. The `clues.txt` files is about 13.1MB in size and contains 432,205 clues with answers.
 
 [se]: http://donohoe.io/projects/crossword/#/git
 
