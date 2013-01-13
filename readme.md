@@ -25,6 +25,10 @@ For example:
     Legion of Honor member	CHEVALIER	00	2
     Noodle-and-vegetable soup	RAMEN	00	2
 
+Alternative source:
+- [https://docs.google.com/file/d/0BzysYYjJHCE5Tk9SU2tkSUdnUGc/edit][gd]
+
+[gd]: https://docs.google.com/file/d/0BzysYYjJHCE5Tk9SU2tkSUdnUGc/edit
 
 Gaps
 -----
