@@ -29,10 +29,11 @@ For example:
 Gaps
 -----
 
-There may be gaps in the data. 2006 is missing. Nothing amazing happened in 2006 anyway (not counting Edmund Phelps winning NObel Peace prize for Economics).
+There may be gaps in the data. 2006 is missing. Nothing amazing happened in 2006 anyway (not counting Edmund Phelps winning Nobel Peace prize for Economics).
 
 To do
 -----
 
-Recover 2006.
-
+- Recover 2006.
+- Re-insert day, full-date
+- Across/Down, Clue Numbers (there were enough discrpencies that made it better to ommit than include)
